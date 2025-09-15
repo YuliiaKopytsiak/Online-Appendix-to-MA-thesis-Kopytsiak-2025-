@@ -1,0 +1,281 @@
+﻿country_name_short;country_name;election_type;election_date;vote_share;seats;seats_total;party_name_short;party_name;party_name_english;left_right;country_id;election_id;previous_parliament_election_id;previous_cabinet_id;party_id
+AUT;Austria;parliament;2013-09-29;26,8;52;183;SPO;Sozialdemokratische Partei Österreichs;Social Democratic Party of Austria;3,7293;59;802;607;268;973
+AUT;Austria;parliament;2013-09-29;24;47;183;OVP;Österreichische Volkspartei;Austrian People's Party;6,4733;59;802;607;268;1013
+AUT;Austria;parliament;2013-09-29;20,5;40;183;FPO;Freiheitliche Partei Österreichs;Freedom Party of Austria;8,3494;59;802;607;268;50
+AUT;Austria;parliament;2013-09-29;12,4;24;183;Gruene;Die Grünen – Die Grüne Alternative;The Greens -- The Green Alternative;2,4604;59;802;607;268;1429
+AUT;Austria;parliament;2013-09-29;5,7;11;183;TS;Team Stronach;Team Stronach;6;59;802;607;268;2150
+AUT;Austria;parliament;2013-09-29;5;9;183;NEOS;NEOS – Das Neue Österreich;NEOS -- The New Austria;6;59;802;607;268;2255
+AUT;Austria;parliament;2013-09-29;3,5;0;183;BZO;Bündnis Zukunft Österreich;Alliance for the Future of Austria;8,83;59;802;607;268;1536
+AUT;Austria;parliament;2013-09-29;1;0;183;KPO;Kommunistische Partei Österreichs;Communist Party of Austria;0,5;59;802;607;268;769
+BEL;Belgium;parliament;2010-06-13;17,4;27;150;N-VA;Nieuw-Vlaamse Alliantie;New Flemish Alliance;6,5321;64;486;401;431;501
+BEL;Belgium;parliament;2010-06-13;13,7;26;150;PS;Parti Socialiste;Francophone Socialist Party;2,9307;64;486;401;431;1378
+BEL;Belgium;parliament;2010-06-13;9,28;18;150;MR;Mouvement Réformateur;Reformist Movement;6,6889;64;486;401;431;915
+BEL;Belgium;parliament;2010-06-13;10,85;17;150;CVP;Christelijke Volkspartij;Flemish Christian Peoples Party;5,7667;64;486;401;431;723
+BEL;Belgium;parliament;2010-06-13;9,24;13;150;SP;Socialistische Partij;Socialist Party;3,2459;64;486;401;431;1029
+BEL;Belgium;parliament;2010-06-13;8,64;13;150;PVV;Partij voor Vrijheid en Vooruitgang;Party of Liberty and Progress;7,0053;64;486;401;431;1110
+BEL;Belgium;parliament;2010-06-13;7,76;12;150;VB;Vlaams Blok;Flemish Block;9,6622;64;486;401;431;993
+BEL;Belgium;parliament;2010-06-13;5,52;9;150;PSC;Parti Social Chrétien;Francophone Christian Social Party;5,4974;64;486;401;431;1192
+BEL;Belgium;parliament;2010-06-13;4,8;8;150;Ecolo;Écologistes Confédérés pour l'organisation de luttes originales;Confederated ecologists for the organisation of original struggles;2,641;64;486;401;431;161
+BEL;Belgium;parliament;2010-06-13;4,38;5;150;AGL-Gr;Agalev – Groen;Agalev -- Green;2,5762;64;486;401;431;1594
+BEL;Belgium;parliament;2010-06-13;2,31;1;150;LD;Lijst Dedecker;List Dedecker;6;64;486;401;431;221
+BEL;Belgium;parliament;2010-06-13;1,29;1;150;Pp;Parti populaire;People's Party;7,4;64;486;401;431;438
+BEL;Belgium;parliament;2010-06-13;1,55;0;150;PA-PT;Partij van de Arbeid – Parti du Travail de Belgique;Workers' Party of Belgium;1,4;64;486;401;431;256
+BGR;Bulgaria;parliament;2013-05-12;30,535;97;240;GERB;Grazhdani za Evropeysko Razvitie na Balgariya;Citizens for European Development of Bulgaria;7,4;10;799;79;1045;1541
+BGR;Bulgaria;parliament;2013-05-12;26,609;84;240;DL-KzB;Democratichnata Levitsa – Koalicija za Balgarija;Democratic Left -- Coalition for Bulgaria;2,8982;10;799;79;1045;1160
+BGR;Bulgaria;parliament;2013-05-12;11,306;36;240;DPS;Dvizhenie za Prava i Svobodi;Movement for Rights and Freedoms;4,5828;10;799;79;1045;1286
+BGR;Bulgaria;parliament;2013-05-12;7,297;23;240;ATA;Natsionalen Sǎyuz Ataka;National Union Attack;5,46;10;799;79;1045;535
+BGR;Bulgaria;parliament;2013-05-12;3,703;0;240;NFSB;Natzionalen Front za Spasenie na Bulgaria;National Front for the Salvation of Bulgaria;8,7;10;799;79;1045;2211
+BGR;Bulgaria;parliament;2013-05-12;1,626;0;240;NDSV;Natsionalno Dvizhenie Simeon Vtori;National Movement Simeon II;5,7567;10;799;79;1045;544
+BGR;Bulgaria;parliament;2013-05-12;1,374;0;240;SDS;Sayuz na Demokratichni Sili;Union of Democratic Forces;6,1111;10;799;79;1045;423
+BGR;Bulgaria;parliament;2013-05-12;1,67;0;240;PPS;Porządek, Prawo i Sprawiedliwość;Order, Lawfulness and Justice;8,7;10;799;79;1045;636
+BGR;Bulgaria;parliament;2013-05-12;1,886;0;240;IMRO;VMRO – Bulgarsko Natsionalno Dvizhenie;IMRO -- Bulgarian National Movement;8,7;10;799;79;1045;2212
+BGR;Bulgaria;parliament;2013-05-12;1,736;0;240;LR;Lider;Lider;6;10;799;79;1045;566
+BGR;Bulgaria;parliament;2013-05-12;2,926;0;240;DSB;Demokrati za Silna Balgarija;Democrats for a Strong Bulgaria;7,85;10;799;79;1045;57
+BGR;Bulgaria;parliament;2013-05-12;3,252;0;240;BNG;"Dvizhenie ""Bulgariya na grazhdanite""";Bulgaria for Citizens Movement;7,4;10;799;79;1045;2213
+BGR;Bulgaria;parliament;2013-05-12;1,339;0;240;PV;People's Voice;People's Voice;;10;799;79;1045;2214
+CYP;Cyprus;parliament;2011-05-22;34,28;20;56;DISY;Dimokratikós Sinayermós;Democratic Rally;8,6842;51;701;556;908;1575
+CYP;Cyprus;parliament;2011-05-22;32,67;19;56;AKEL;Anorthotikó Kómma Ergazómenou Laoú;Progressive Party of Working People;1,0526;51;701;556;908;572
+CYP;Cyprus;parliament;2011-05-22;15,76;9;56;DIKO;Dimokratikó Kómma;Democratic Party;5,1316;51;701;556;908;851
+CYP;Cyprus;parliament;2011-05-22;8,93;5;56;EDEK;Kinima Sosialdimokraton EDEK;Movement for Social Democracy EDEK;3,2895;51;701;556;908;945
+CYP;Cyprus;parliament;2011-05-22;3,88;2;56;EK;Evropaiko Komma;European Party;6;51;701;556;908;491
+CYP;Cyprus;parliament;2011-05-22;2,21;1;56;KOP;Kinima Oikologoi Perivallontistoi;Ecological and Environmental Movement;5,7895;51;701;556;908;1621
+CYP;Cyprus;parliament;2011-05-22;1,08;0;56;ELAM;Ethniko Laiko Metopo;National Popular Front;8,7;51;701;556;908;1768
+CZE;Czech Republic;parliament;2013-10-25;20,45;50;200;CSSD;Česká strana sociálně demokratická;Czech Social Democratic Party;3,0463;68;805;599;1062;789
+CZE;Czech Republic;parliament;2013-10-25;18,65;47;200;ANO;Akce nespokojených občanů;Action of Dissatisfied Citizens;6;68;805;599;1062;2263
+CZE;Czech Republic;parliament;2013-10-25;14,91;33;200;KSCM;Komunistická strana Cech a Moravy;Communist Party of Bohemia and Moravia;0,7498;68;805;599;1062;1173
+CZE;Czech Republic;parliament;2013-10-25;11,99;26;200;TOP09;Tradice Odpovědnost Prosperita 09;Tradition Responsibility Prosperity 09;7,4;68;805;599;1062;2
+CZE;Czech Republic;parliament;2013-10-25;7,72;16;200;ODS;Občanská demokratická strana;Civic Democratic Party;7,3637;68;805;599;1062;829
+CZE;Czech Republic;parliament;2013-10-25;6,78;14;200;KDU/CSL;Křesťanská a demokratická unie / Československá strana lidová;Christian Democratic Union / People's Party;5,8099;68;805;599;1062;1245
+CZE;Czech Republic;parliament;2013-10-25;6,88;14;200;UPD;Úsvit přímé demokracie;Dawn of Direct Democracy;7,4;68;805;599;1062;2262
+CZE;Czech Republic;parliament;2013-10-25;2,46;0;200;SSO;Strana svobodných občanů;Party of Free Citizens;7,4;68;805;599;1062;363
+CZE;Czech Republic;parliament;2013-10-25;2,66;0;200;Pi;Ceska piratska strana;Czech Pirate Party;;68;805;599;1062;2261
+CZE;Czech Republic;parliament;2013-10-25;1,51;0;200;SPOZ;Strana práv občanů – Zemanovci;Party of Civic Rights -- Zemanovci;3,4;68;805;599;1062;406
+CZE;Czech Republic;parliament;2013-10-25;3,19;0;200;SZ;Strana zelených;Green Party;4,123;68;805;599;1062;196
+DEU;Germany;parliament;2013-09-22;34,1;255;631;CDU;Christlich Demokratische Union;Christian Democratic Union;6,2503;54;800;93;472;808
+DEU;Germany;parliament;2013-09-22;25,7;193;631;SPD;Sozialdemokratische Partei Deutschlands;Social Democratic Party of Germany;3,6451;54;800;93;472;558
+DEU;Germany;parliament;2013-09-22;8,6;64;631;Linke;Die Linke;The Left;1,2152;54;800;93;472;1227
+DEU;Germany;parliament;2013-09-22;8,4;63;631;B90/Gru;Bündnis 90 / Die Grünen;Alliance 90 / Greens;2,9308;54;800;93;472;772
+DEU;Germany;parliament;2013-09-22;7,4;56;631;CSU;Christlich Soziale Union;Christian Social Union;7,2871;54;800;93;472;1180
+DEU;Germany;parliament;2013-09-22;4,8;0;631;FDP;Freie Demokratische Partei;Free Democratic Party;5,9233;54;800;93;472;543
+DEU;Germany;parliament;2013-09-22;2,2;0;631;Pi;Piratenpartei Deutschland;German Pirate Party;;54;800;93;472;865
+DEU;Germany;parliament;2013-09-22;1,3;0;631;NPD;Nationaldemokratische Partei Deutschlands;National Democratic Party;9,8246;54;800;93;472;1537
+DEU;Germany;parliament;2013-09-22;4,7;0;631;AfD;Alternative für Deutschland;Alternative for Germany;7,4;54;800;93;472;2253
+DNK;Denmark;parliament;2011-09-15;26,41;47;179;V;Venstre;Liberal Party of Denmark;7,292;21;722;174;71;1605
+DNK;Denmark;parliament;2011-09-15;24,51;44;179;Sd;Socialdemokraterne;Social Democrats;3,8011;21;722;174;71;1629
+DNK;Denmark;parliament;2011-09-15;12,17;22;179;DF;Dansk Folkeparti;Danish Peoples Party;8,2269;21;722;174;71;1418
+DNK;Denmark;parliament;2011-09-15;9,38;17;179;RV;Det Radikale Venstre;Danish Social-Liberal Party;4,8736;21;722;174;71;211
+DNK;Denmark;parliament;2011-09-15;9,09;16;179;SF;Socialistisk Folkeparti;Socialist Peoples Party;2,1347;21;722;174;71;1644
+DNK;Denmark;parliament;2011-09-15;6,6;12;179;En/O;Enhedslisten / De Rød-Grønne;Red-Green Alliance;0,8912;21;722;174;71;306
+DNK;Denmark;parliament;2011-09-15;4,92;9;179;NLA;Ny/Liberal Alliance;New/Liberal Alliance;6;21;722;174;71;376
+DNK;Denmark;parliament;2011-09-15;4,88;8;179;KF;Konservative;Conservatives;7,2186;21;722;174;71;590
+DNK;Denmark;parliament;2011-09-15;0,28;1;179;IA;Inuit Ataqatigiit;Community of the People;1,4;21;722;174;71;1891
+DNK;Denmark;parliament;2011-09-15;0,24;1;179;Si;Siumut;Forward (Greenland);3,4;21;722;174;71;74
+DNK;Denmark;parliament;2011-09-15;0,18;1;179;Sbf;Sambandsflokkurin;Union Party (Faroe Islands);7,4;21;722;174;71;1892
+DNK;Denmark;parliament;2011-09-15;0,12;1;179;Jf;Javnaðarflokkurin;Social Democratic Party (Faroe Islands);3,4;21;722;174;71;1894
+DNK;Denmark;parliament;2011-09-15;0,78;0;179;KrF;Kristeligt Folkeparti;Christian People's Party;5,6982;21;722;174;71;1331
+ESP;Spain;parliament;2011-11-20;41,9;186;350;PP;Partido Popular;Popular Party;7,5969;27;777;500;497;645
+ESP;Spain;parliament;2011-11-20;25,32;110;350;PSOE;Partido Socialista Obrero Español;Spanish Socialist Workers Party;3,7377;27;777;500;497;902
+ESP;Spain;parliament;2011-11-20;4,23;16;350;CiU;Convergència i Unió;Convergence and Union;6,2564;27;777;500;497;894
+ESP;Spain;parliament;2011-11-20;7,02;11;350;IU/PCE;Izquierda Unida / Partido Communista;United Left / Communist Party;2,0183;27;777;500;497;118
+ESP;Spain;parliament;2011-11-20;1,39;7;350;A;Amaiur;Amaiur;;27;777;500;497;1975
+ESP;Spain;parliament;2011-11-20;4,76;5;350;UPyD;Unión Progreso y Democracia;Union, Progress and Democracy;6;27;777;500;497;551
+ESP;Spain;parliament;2011-11-20;1,35;5;350;PNV;Partido Nacionalista Vasco – Euzko Alderdi Jeltzalea;Basque National Party;6,2144;27;777;500;497;1361
+ESP;Spain;parliament;2011-11-20;1,07;3;350;ERC;Esquerra Republicana de Catalunya;Republican Left of Catalonia;3,1072;27;777;500;497;757
+ESP;Spain;parliament;2011-11-20;0,77;2;350;BNG;Bloque Nacionalista Galego;Galician Nationalist Block;2,9117;27;777;500;497;520
+ESP;Spain;parliament;2011-11-20;0,6;2;350;CC;Coalición Canaria;Canary Coalition;5,9789;27;777;500;497;234
+ESP;Spain;parliament;2011-11-20;0,52;1;350;Compromis;Coalició Compromís;Commitment Coalition;;27;777;500;497;2229
+ESP;Spain;parliament;2011-11-20;0,41;1;350;FAC;Foro de Ciudadanos;Asturian Forum;7,4;27;777;500;497;1978
+ESP;Spain;parliament;2011-11-20;0,18;1;350;GBAI;Geroa Bai;Yes to the future;;27;777;500;497;1979
+ESP;Spain;parliament;2011-11-20;0,9;0;350;no-seat;no seat;no seat;;27;777;500;497;2056
+ESP;Spain;parliament;2011-11-20;3,84;0;350;PSC-PSOE;Partit dels Socialistes de Catalunya;Socialists' Party of Catalonia;3,4;27;777;500;497;1974
+ESP;Spain;parliament;2011-11-20;1,41;0;350;PAR;Partido Aragonés Regionalista;Aragonese Regionalist Party;7,1909;27;777;500;497;1221
+ESP;Spain;parliament;2011-11-20;1,41;0;350;EU;Extremadura Unida;United Extremadura;;27;777;500;497;1976
+ESP;Spain;parliament;2011-11-20;0,52;0;350;UPN;Union del Pueblo Navarro;Navarrese Peoples Union;7,4;27;777;500;497;1630
+EST;Estonia;parliament;2011-03-06;28,6;33;101;ERe;Eesti Reformierakond;Estonian Reform Party;7,8969;75;699;83;902;113
+EST;Estonia;parliament;2011-03-06;23,3;26;101;EK;Eesti Keskerakond;Estonian Centre Party;3,9562;75;699;83;902;1137
+EST;Estonia;parliament;2011-03-06;20,5;23;101;IRL;Erakond Isamaa ja Res Publica Liit;Union of Pro Patria and Res Publica;8,4962;75;699;83;902;1597
+EST;Estonia;parliament;2011-03-06;17,1;19;101;SDE-M;Sotsiaaldemokraatlik Erakond – Mõõdukad;Social Democratic Party -- Moderates;4,1915;75;699;83;902;1448
+EST;Estonia;parliament;2011-03-06;3,8;0;101;EER;Erakonna Eestimaa Rohelised;Estonian Greens;5,5556;75;699;83;902;219
+EST;Estonia;parliament;2011-03-06;2,1;0;101;ERa;Eestimaa Rahvalliit;People's Union of Estonia;4,5812;75;699;83;902;417
+FIN;Finland;parliament;2011-04-17;20,4;44;200;KOK;Kansallinen Kokoomus – Samlingspartiet;National Coalition Party;7,2451;67;700;314;383;1118
+FIN;Finland;parliament;2011-04-17;19,1;42;200;SSDP;Suomen Sosialidemokraattinen Puolue – Finlands Socialdemokratiska Parti;Social Democratic Party of Finland;3,5595;67;700;314;383;395
+FIN;Finland;parliament;2011-04-17;19,1;39;200;SP-P;Suomen Puolue – Perussuomalaiset;Finnish Party -- True Finns;6,6331;67;700;314;383;200
+FIN;Finland;parliament;2011-04-17;15,8;35;200;KESK;Keskusta;Centre Party;5,8027;67;700;314;383;94
+FIN;Finland;parliament;2011-04-17;8,1;14;200;VAS;Vasemmistoliitto – Vänsterförbundet;Left Alliance;2,2612;67;700;314;383;1427
+FIN;Finland;parliament;2011-04-17;7,3;10;200;VIHR;Vihreä Liitto – Gröna Förbundet;Green League;3,6465;67;700;314;383;1062
+FIN;Finland;parliament;2011-04-17;4,3;9;200;RKP-SFP;Ruotsalainen Kansanpuolue – Svenska Folkepartiet i Finland;Swedish People's Party;6,3906;67;700;314;383;585
+FIN;Finland;parliament;2011-04-17;4;6;200;KD;Suomen Kristillisdemokraatit – Kristdemokraterna i Finland;Finnish Christian Union;7,1884;67;700;314;383;1463
+FIN;Finland;parliament;2011-04-17;0,2;1;200;AS;Åländsk Samlingin ääntä – Åländsk Samling;Aland Coalition;;67;700;314;383;66
+FIN;Finland;parliament;2011-04-17;0,5;0;200;no-seat;no seat;no seat;;67;700;314;383;2054
+FRA;France;parliament;2012-06-10;29,35;280;577;PS;Parti socialiste;Socialist Party;3,2493;43;782;171;1037;1539
+FRA;France;parliament;2012-06-10;27,12;194;577;UMP;Union pour un mouvement populaire;Union for a Popular Movement;7,4997;43;782;171;1037;658
+FRA;France;parliament;2012-06-10;3,4;22;577;gauche;divers gauche;other left;3,4;43;782;171;1037;177
+FRA;France;parliament;2012-06-10;5,46;17;577;V;Les Verts;Greens;3,155;43;782;171;1037;873
+FRA;France;parliament;2012-06-10;3,51;15;577;droite;divers droite;other right;7,6583;43;782;171;1037;285
+FRA;France;parliament;2012-06-10;1,65;12;577;PRG;Parti radical de gauche;Radical Party of the Left;4,0813;43;782;171;1037;1492
+FRA;France;parliament;2012-06-10;2,2;12;577;NC;Nouveau centre;New Centre;6;43;782;171;1037;1058
+FRA;France;parliament;2012-06-10;6,91;10;577;PCF;Parti communiste française;French Communist Party;1,3741;43;782;171;1037;686
+FRA;France;parliament;2012-06-10;1,24;6;577;PR;Parti radical ;Radical Party;3,9896;43;782;171;1037;401
+FRA;France;parliament;2012-06-10;0,56;2;577;reg; régionalistes;regional;;43;782;171;1037;2082
+FRA;France;parliament;2012-06-10;1,77;2;577;MoDem;Mouvement démocrate;Democratic Movement;6;43;782;171;1037;937
+FRA;France;parliament;2012-06-10;0,6;2;577;AC;Alliance centriste;Centrist Alliance;6;43;782;171;1037;2078
+FRA;France;parliament;2012-06-10;13,6;2;577;FN;Front National;National Front;9,6854;43;782;171;1037;270
+FRA;France;parliament;2012-06-10;0,19;1;577;ex-dro;extrême droite;other far-right;8,7;43;782;171;1037;2079
+FRA;France;parliament;2012-06-10;0,96;0;577;no-seat;no seat;no seat;;43;782;171;1037;2080
+GRC;Greece;parliament;2012-06-17;29,66;129;300;ND;Néa Đimokratía;New Democracy;6,7365;41;784;783;1039;47
+GRC;Greece;parliament;2012-06-17;26,89;71;300;SYRIZA;Synaspismós Rizospastikís Aristerás;Coalition of the Radical Left;2,8947;41;784;783;1039;1592
+GRC;Greece;parliament;2012-06-17;12,28;33;300;PASOK;Panellinio Sosialistikó Kínima;Panhellenic Socialist Movement;4,4968;41;784;783;1039;1338
+GRC;Greece;parliament;2012-06-17;7,51;20;300;AE;Anexartitoi Ellines;Independent Greeks;8,7;41;784;783;1039;2091
+GRC;Greece;parliament;2012-06-17;6,92;18;300;LS-CA;Laikos Syndesmos – Chrysi Avg;Peoples Association -- Golden Dawn;8,7;41;784;783;1039;2092
+GRC;Greece;parliament;2012-06-17;6,26;17;300;DIMAR;Dimokratiki Aristera;Democratic Left;1,4;41;784;783;1039;2093
+GRC;Greece;parliament;2012-06-17;4,5;12;300;KKE;Kommounistikó Kómma Elládas;Communist Party of Greece;1,253;41;784;783;1039;614
+GRC;Greece;parliament;2012-06-17;1,59;0;300;DX;Dimiourgia Xana;Recreate Greece;7,4;41;784;783;1039;2095
+GRC;Greece;parliament;2012-06-17;1,58;0;300;LAOS;Laïkós Orthódoxos Synagermós;Popular Orthodox Rally;9,11;41;784;783;1039;1179
+HRV;Croatia;parliament;2011-12-04;41,08;61;151;SPH;Socijaldemokratska partija Hrvatske;Social Democratic Party of Croatia;3,2456;62;792;793;1057;1493
+HRV;Croatia;parliament;2011-12-04;23,5;41;151;HDZ;Hrvatska demokratska zajednica;Croatian Democratic Union;7,1053;62;792;793;1057;276
+HRV;Croatia;parliament;2011-12-04;;13;151;HNS;Hrvatska narodna stranka – Liberalni demokrati;Croatian People's Party -- Liberal Democrats;1,8421;62;792;793;1057;1384
+HRV;Croatia;parliament;2011-12-04;;8;151;ethnic;ethnic;ethnic;;62;792;793;1057;2192
+HRV;Croatia;parliament;2011-12-04;4,19;6;151;CL-LP;Hrvatski laburisti – Stranka rada;Croatian Labourists -- Labour Party;1,4;62;792;793;1057;2182
+HRV;Croatia;parliament;2011-12-04;2,96;6;151;HDSSB;Hrvatski demokratski savez Slavonije i Baranje;Croatian Democratic Alliance of Slavonia and Baranja;8,7;62;792;793;1057;2135
+HRV;Croatia;parliament;2011-12-04;;3;151;abroad;abroad;abroad;;62;792;793;1057;2191
+HRV;Croatia;parliament;2011-12-04;;3;151;IDS;Istarski demokratski sabor;Istrian Democratic Assembly;3,4211;62;792;793;1057;1627
+HRV;Croatia;parliament;2011-12-04;;3;151;HSU;Hrvatska stranka umirovljenika;Croatian Party of Pensioners;;62;792;793;1057;2134
+HRV;Croatia;parliament;2011-12-04;;2;151;HGS;Hrvatska građanska stranka;Croatian Civic Party;8,7;62;792;793;1057;2193
+HRV;Croatia;parliament;2011-12-04;1,25;2;151;Grubisic;Neovisna lista – dr.sc. IVAN GRUBIŠIĆ;Independent List -- PhD Ivan Grubisic;;62;792;793;1057;2195
+HRV;Croatia;parliament;2011-12-04;;1;151;DC;Demokratski centar;Democratic Centre;5,9649;62;792;793;1057;1081
+HRV;Croatia;parliament;2011-12-04;0,64;1;151;HSP-AS;Hrvatska stranka prava dr. Ante Starčević;Croatian Party of Rights -- Dr. Ante Starcevic;8,7;62;792;793;1057;2181
+HRV;Croatia;parliament;2011-12-04;0,64;1;151;HSS;Hrvatska seljačka stranka;Croatian Peasant Party;6,2281;62;792;793;1057;1465
+HRV;Croatia;parliament;2011-12-04;3;0;151;HSP;Hrvatska stranka prava;Croatian Party of Right;8,7719;62;792;793;1057;1044
+HRV;Croatia;parliament;2011-12-04;3;0;151;HSLS;Hrvatska socijalno liberalna stranka;Croatian Social Liberal Party;7,193;62;792;793;1057;1102
+HRV;Croatia;parliament;2011-12-04;2,8;0;151;PGS;Primorsko goranski savez;Alliance of Primorje-Gorski;;62;792;793;1057;2196
+HUN;Hungary;parliament;2010-04-25;;227;386;Fi-MPSz;Fidesz – Magyar Polgári Szövetség;Fidesz -- Hungarian Civic Union;6,5432;39;688;194;162;921
+HUN;Hungary;parliament;2010-04-25;19,3;59;386;MSZP;Magyar Szocialista Párt;Hungarian Socialist Party;2,8743;39;688;194;162;1591
+HUN;Hungary;parliament;2010-04-25;16,67;47;386;MIEP-Job;Magyar Igazság és Élet Pártja – Jobbik a Harmadik Út;Hungarian Justice and Life Party -- Jobbik and Third Way Alliance;9,6065;39;688;194;162;584
+HUN;Hungary;parliament;2010-04-25;;36;386;KDNP;Kereszténydemokrata Néppárt;Christian Democratic People's Party;7,4;39;688;194;162;434
+HUN;Hungary;parliament;2010-04-25;7,48;16;386;LMP;Lehet Más a Politika;Politics Can Be Different;2,9;39;688;194;162;403
+HUN;Hungary;parliament;2010-04-25;;1;386;none;független;no party affiliation;;39;688;194;162;1617
+HUN;Hungary;parliament;2010-04-25;2,18;0;386;MDF;Magyar Demokrata Fórum;Hungarian Democratic Forum;6,4826;39;688;194;162;546
+HUN;Hungary;parliament;2010-04-25;52,73;263;386;Fi/KDNP;Fidesz – Magyar Polgári Szövetség / Kereszténydemokrata Néppárt;Fidesz -- Hungarian Civic Party / Christian Democratic People's Party;6,5432;39;688;194;162;437
+IRL;Ireland;parliament;2011-02-25;36,1;76;165;FG;Fine Gael;Fine Gael (Familiy of the Irish);6,4372;37;698;190;173;1393
+IRL;Ireland;parliament;2011-02-25;19,45;37;165;Lab;Páirti Lucht Oibre;Labour Party;3,6252;37;698;190;173;318
+IRL;Ireland;parliament;2011-02-25;17,45;19;165;FF;Fianna Fáil;Fianna Fail (Soldiers of Destiny);6,0713;37;698;190;173;280
+IRL;Ireland;parliament;2011-02-25;;15;165;none;no party affiliation;no party affiliation;;37;698;190;173;30
+IRL;Ireland;parliament;2011-02-25;9,94;14;165;PSF;Provisional Sinn Féin;Provisional Sinn Fein;1,4;37;698;190;173;2217
+IRL;Ireland;parliament;2011-02-25;1,21;2;165;SP;Páirtí Sóisialach;Socialist Party;1,4;37;698;190;173;1014
+IRL;Ireland;parliament;2011-02-25;0,97;2;165;PBPA;People Before Profit Alliance;People Before Profit Alliance;1,4;37;698;190;173;1804
+IRL;Ireland;parliament;2011-02-25;1,85;0;165;Greens;Green Party-Comhaontas Glas;Green Party;2,435;37;698;190;173;1573
+ITA;Italy;parliament;2013-02-25;25,42;292;617;PD;Partito Democratico;Democratic Party;2,6216;26;789;111;983;382
+ITA;Italy;parliament;2013-02-25;25,55;108;617;M5S;Movimento 5 Stelle;Five Star Movement;2,9;26;789;111;983;2155
+ITA;Italy;parliament;2013-02-25;21,56;97;617;FI-PdL;Forza Italia – Il Popolo della Libertà;Go Italy -- The People of Freedom;7,1459;26;789;111;983;596
+ITA;Italy;parliament;2013-02-25;3,2;37;617;SEL;Sinistra Ecologia Liberta;Left Ecology Freedom;1,4;26;789;111;983;2152
+ITA;Italy;parliament;2013-02-25;8,3;37;617;SC;Scelta Civica;Civic Choice;6;26;789;111;983;2156
+ITA;Italy;parliament;2013-02-25;4,08;18;617;LN;Lega Nord;North League;7,8007;26;789;111;983;1436
+ITA;Italy;parliament;2013-02-25;1,95;9;617;FdI-CN;Fratelli d'Italia -- Centrodestra Nazionale;Brothers of Italy -- National Centre-right;7,4;26;789;111;983;2154
+ITA;Italy;parliament;2013-02-25;1,78;8;617;U/C;Unione / Centro;Union / Centre;6,1092;26;789;111;983;226
+ITA;Italy;parliament;2013-02-25;0,49;6;617;CD;Centro Democratico; Democratic Centre;6;26;789;111;983;2153
+ITA;Italy;parliament;2013-02-25;0,43;5;617;SVP;Südtiroler Volkspartei;South Tyrol Peoples Party;5,4;26;789;111;983;1030
+ITA;Italy;parliament;2013-02-25;2,25;0;617;RC;Rivoluzione Civile;Civil Revolution;1,4;26;789;111;983;2157
+ITA;Italy;parliament;2013-02-25;1,11;0;617;FiD;Fermare il Declino;Stop the Decline;6;26;789;111;983;2158
+ITA;Italy;parliament;2013-02-25;;0;617;FLI;Futuro e libertà per l'Italia;Future and Freedom for Italy;7,4;26;789;111;983;1477
+LTU;Lithuania;parliament;2012-10-14;18,37;37;141;LSDP;Lietuvos socialdemokratų partija;Lithuanian Social Democratic Party;3,1972;15;786;646;1026;1277
+LTU;Lithuania;parliament;2012-10-14;15,08;33;141;TS-LKD;Tėvynės sąjunga – Lietuvos krikščionys demokratai;Homeland Union -- Lithuanian Christian Democrats;7,7562;15;786;646;1026;293
+LTU;Lithuania;parliament;2012-10-14;19,82;29;141;DP;Darbo Partija;Labour Party;3,86;15;786;646;1026;581
+LTU;Lithuania;parliament;2012-10-14;7,31;11;141;TT-LDP;Tvarka ir teisingumas – Liberalų Demokratų Partija;Order and Justice -- Liberal Democratic Party;5,2955;15;786;646;1026;1421
+LTU;Lithuania;parliament;2012-10-14;8,57;10;141;LRLS;Lietuvos Respublikos Liberalų sąjūdis;Liberals Movement of the Republic of Lithuania;7,7562;15;786;646;1026;482
+LTU;Lithuania;parliament;2012-10-14;5,83;8;141;LLRA;Lietuvos lenkų rinkimų akcija;Election Action of Lithuania's Poles;3,865;15;786;646;1026;28
+LTU;Lithuania;parliament;2012-10-14;7,99;7;141;DK;Drąsos Kelias;The Way of Courage;;15;786;646;1026;2121
+LTU;Lithuania;parliament;2012-10-14;;3;141;none;no party affiliation;no party affiliation;;15;786;646;1026;58
+LTU;Lithuania;parliament;2012-10-14;3,88;1;141;LVLS;Lietuvos valstiečių sąjunga;Lithuanian Peasant Union;3,2687;15;786;646;1026;191
+LTU;Lithuania;parliament;2012-10-14;2,06;0;141;LiCS;Liberalų ir centro sąjunga;Liberal and Centre Union;7,7562;15;786;646;1026;983
+LTU;Lithuania;parliament;2012-10-14;1,76;0;141;TAIP;Tėvynės atgimimas ir perspektyva;YES -- Homeland Revival and Perspective;6;15;786;646;1026;2122
+LTU;Lithuania;parliament;2012-10-14;1,21;0;141;SPF;Socialist People's Front;Socialist People's Front;1,4;15;786;646;1026;1056
+LTU;Lithuania;parliament;2012-10-14;1,2;0;141;KKSS;Krikščionių konservatorių socialinė sąjunga;Christian Conservative Social Union;6,4579;15;786;646;1026;709
+LUX;Luxembourg;parliament;2013-10-20;33,68;23;60;CSV;Chrëschtlech Sozial Vollekspartei – Parti populaire chrétien social – Christlich Soziale Volkspartei;Christian Social People's Party;6,4474;7;803;172;1063;1234
+LUX;Luxembourg;parliament;2013-10-20;18,25;13;60;DP;Demokratesch Partei – Parti Démocratique – Demokratische Partei;Democratic Party;6,5789;7;803;172;1063;967
+LUX;Luxembourg;parliament;2013-10-20;20,28;13;60;LSAP;Lëtzebuerger Sozialistesch Arbechterpartei – Parti Ouvrier Socialiste Luxembourgeois – Luxemburger Sozialistische Arbeiterpartei;Luxembourg Socialist Workers' Party;3,2895;7;803;172;1063;701
+LUX;Luxembourg;parliament;2013-10-20;10,13;6;60;Greng;Déi Gréng – Les Verts – Die Grünen;The Greens;2,5;7;803;172;1063;310
+LUX;Luxembourg;parliament;2013-10-20;6,64;3;60;AR/ADR;Aktionskomitee Rente – Comité d’action pensions / Alternativ Demokratesch Reformpartei – Parti réformiste d'alternative démocratique;Action Committee Pensions / Alternative Democratic Reform Party;8,8158;7;803;172;1063;1582
+LUX;Luxembourg;parliament;2013-10-20;4,94;2;60;DL;Déi Lénk – La Gauche – Die Linke;The Left;0,5263;7;803;172;1063;457
+LUX;Luxembourg;parliament;2013-10-20;1,64;0;60;KPL;Kommunistesch Partei Lëtzebuerg – Parti Communiste Luxembourgeois – Kommunistische Partei Luxemburg;Communist Party of Luxembourg;1,4;7;803;172;1063;151
+LUX;Luxembourg;parliament;2013-10-20;2,94;0;60;Pi;Piratepartei Lëtzebuerg – Piratenpartei Parti pirate du Luxembourg – Piratenpartei Luxemburg;Pirate Party Luxembourg;;7;803;172;1063;2256
+LUX;Luxembourg;parliament;2013-10-20;1,5;0;60;PID;Partei fir Integral Demokratie – Parti pour la democratie integrale – Partei für Integrale Demokratie;Party for Full Democracy;7,4;7;803;172;1063;2257
+LVA;Latvia;parliament;2011-09-17;28,36;31;100;SC;Saskaņas Centrs;Harmony Centre;3;55;765;690;882;1100
+LVA;Latvia;parliament;2011-09-17;20,83;22;100;ZRP;Zatlera Reformu partija;Zatlers' Reform Party;7,4;55;765;690;882;1942
+LVA;Latvia;parliament;2011-09-17;18,83;20;100;V;Vienotība;Unity;7,4;55;765;690;882;1666
+LVA;Latvia;parliament;2011-09-17;13,88;14;100;TB/LNNK;Tēvzemei un Brīvībai / LNNK;For Fatherland and Freedom / LNNK;8,2588;55;765;690;882;521
+LVA;Latvia;parliament;2011-09-17;12,22;13;100;ZZS;Zaļo un Zemnieku savienība;Green and Farmers' Union;5,2632;55;765;690;882;466
+LVA;Latvia;parliament;2011-09-17;2,41;0;100;LPP/LC;Latvijas Pirmā partija / Latvijas Ceļš;Latvian First Party / Latvian Way Party;7,4;55;765;690;882;662
+MLT;Malta;parliament;2013-03-09;54,83;39;69;MLP;Partit Laburista;Malta Labour Party;4,2105;72;790;203;468;1003
+MLT;Malta;parliament;2013-03-09;43,34;30;69;PN;Partit Nazzjonalista;Nationalist Party;5,7143;72;790;203;468;984
+MLT;Malta;parliament;2013-03-09;1,8;0;69;AD;Alternattiva Demokratika;Democratic Alternative;3,7895;72;790;203;468;360
+NLD;Netherlands;parliament;2012-09-12;26,58;41;150;VVD;Volkspartij voor Vrijheid en Democratie;People's Party for Freedom and Democracy;7,3482;8;785;530;1028;1409
+NLD;Netherlands;parliament;2012-09-12;24,84;38;150;PvdA;Partij van de Arbeid;Labour Party;3,6118;8;785;530;1028;742
+NLD;Netherlands;parliament;2012-09-12;10,08;15;150;PVV;Partij voor de Vrijheid;Party for Freedom;8,8;8;785;530;1028;1501
+NLD;Netherlands;parliament;2012-09-12;9,65;15;150;SP;Socialistiese Partij;Socialist Party;1,2146;8;785;530;1028;357
+NLD;Netherlands;parliament;2012-09-12;8,51;13;150;CDA;Christen Democratisch Appèl;Christian Democrats;5,9376;8;785;530;1028;235
+NLD;Netherlands;parliament;2012-09-12;8,03;12;150;D66;Democraten 66;Libertarians;4,5066;8;785;530;1028;345
+NLD;Netherlands;parliament;2012-09-12;3,13;5;150;CU;ChristenUnie – Staatkundig Gereformeerde Partij;ChristianUnion -- Reformed Political Party;6,1732;8;785;530;1028;1206
+NLD;Netherlands;parliament;2012-09-12;2,33;4;150;GL;GroenLinks;GreenLeft;2,0454;8;785;530;1028;756
+NLD;Netherlands;parliament;2012-09-12;2,09;3;150;SGP;Staatkundig Gereformeerde Partij;Political Reformed Party;8,7531;8;785;530;1028;1251
+NLD;Netherlands;parliament;2012-09-12;1,93;2;150;PvdD;Partij voor de Dieren;Party for the Animals;;8;785;530;1028;990
+NLD;Netherlands;parliament;2012-09-12;1,88;2;150;50+;50PLUS;50PLUS;6;8;785;530;1028;2109
+NLD;Netherlands;parliament;2012-09-12;0,32;0;150;no-seat;no seat;no seat;;8;785;530;1028;2110
+POL;Poland;parliament;2011-10-09;39,18;207;460;PO;Platforma Obywatelska;Civic Platform;6,2355;74;766;560;164;512
+POL;Poland;parliament;2011-10-09;29,89;157;460;PiS;Prawo i Sprawiedliwość;Law and Justice;7,6997;74;766;560;164;528
+POL;Poland;parliament;2011-10-09;10,02;40;460;RP; Ruch Palikota;Palikot's Movement;6;74;766;560;164;1945
+POL;Poland;parliament;2011-10-09;8,36;28;460;PSL;Polskie Stronnictwo Ludowe;Polish Peasants' Party;4,1856;74;766;560;164;664
+POL;Poland;parliament;2011-10-09;8,24;27;460;SLD;Sojusz Lewicy Demokratycznej;Democratic Left Alliance;2,8299;74;766;560;164;629
+POL;Poland;parliament;2011-10-09;0,19;1;460;MN;Mniejszość niemiecka w Polsce;German minority;;74;766;560;164;900
+POL;Poland;parliament;2011-10-09;2,19;0;460;PjN;Polska jest Najważniejsza;Poland is the Most Important;7,4;74;766;560;164;1679
+POL;Poland;parliament;2011-10-09;1,06;0;460;PJKM;Platforma Janusza Korwin-Mikke;Platform of Janusz Korwin-Mikke;7,4;74;766;560;164;1716
+PRT;Portugal;parliament;2011-06-05;38,66;108;230;PSD;Partido Social Democrata;Social Democratic Party;6,2949;63;702;405;858;1273
+PRT;Portugal;parliament;2011-06-05;28,05;74;230;PS;Partido Socialista;Socialist Party;4,0492;63;702;405;858;725
+PRT;Portugal;parliament;2011-06-05;11,71;24;230;CDS-PP;Centro Democrático e Social – Partido Popular;Democratic and Social Centre -- People's Party;8,0222;63;702;405;858;251
+PRT;Portugal;parliament;2011-06-05;7,9;16;230;CDU;Coligação Democrático Unitária;Unified Democratic Coalition;2,2233;63;702;405;858;1295
+PRT;Portugal;parliament;2011-06-05;5,17;8;230;BE;Bloco de Esquerda;Bloc of the Left;1,6425;63;702;405;858;557
+PRT;Portugal;parliament;2011-06-05;1,12;0;230;PCTP/MRPP;Comunista dos Trabalhadores Portugueses / Movimento Reorganizativo do Partido do Proletariado;Communist Party of the Portuguese Workers / Reorganizative Movement of the Party of the Proletariat;1,4;63;702;405;858;281
+PRT;Portugal;parliament;2011-06-05;1,04;0;230;PAN;Partido pelos Animais e pela Natureza;Party for Animals and Nature;2,9;63;702;405;858;1781
+ROU;Romania;parliament;2012-12-09;32,21;150;412;PSD;Partidul Social Democrat;Social Democratic Party;3,2325;23;787;319;1033;1120
+ROU;Romania;parliament;2012-12-09;21,48;100;412;PNL;Partidul Naţional Liberal;National Liberal Party;6,0543;23;787;319;1033;1015
+ROU;Romania;parliament;2012-12-09;15,33;52;412;PD-L;Partidul Democrat-Liberal;Democratic Liberal Party;5,3875;23;787;319;1033;958
+ROU;Romania;parliament;2012-12-09;13,99;47;412;PP-DD;Partidul Poporului – Dan Diaconescu;People's Party -- Dan Diaconescu;1,4;23;787;319;1033;2130
+ROU;Romania;parliament;2012-12-09;5,13;18;412;UDMR;Uniunea Democrată Maghiară din România;Democratic Union of Hungarians in Romania;6,016;23;787;319;1033;948
+ROU;Romania;parliament;2012-12-09;;18;412;etnice;Partidele minorităţilor etnice din România;Romanian ethnic minorities parties;;23;787;319;1033;425
+ROU;Romania;parliament;2012-12-09;2,79;13;412;PC;Partidul Conservator;Conservative Party;4,7622;23;787;319;1033;5
+ROU;Romania;parliament;2012-12-09;2,15;10;412;UNPR;Uniunea Naţională pentru Progresul României;National Union for the Progress of Romania;3,4;23;787;319;1033;2002
+ROU;Romania;parliament;2012-12-09;0,88;3;412;FC;Forța Civică;Civic Force;6,2;23;787;319;1033;2129
+ROU;Romania;parliament;2012-12-09;0,29;1;412;PNT-CD;Partidul Naţional Ţărănesc Creştin Democrat;Christian-Democratic National Peasants' Party;5,5341;23;787;319;1033;888
+ROU;Romania;parliament;2012-12-09;1,25;0;412;PRM;Partidul România Mare;Greater Romania Party;6,6618;23;787;319;1033;713
+SVK;Slovakia;parliament;2012-03-10;44,41;83;150;Smer;Smer – sociálna demokracia;Direction -- Social Democracy;3,3799;1;781;524;982;220
+SVK;Slovakia;parliament;2012-03-10;8,82;16;150;KDH;Kresťanskodemokratické hnutie;Christian Democratic Movement;7,1082;1;781;524;982;1432
+SVK;Slovakia;parliament;2012-03-10;8,55;16;150;OL;Obyčajní l'udia;Ordinary People;7,4;1;781;524;982;1759
+SVK;Slovakia;parliament;2012-03-10;6,89;13;150;MH;Most-Híd;Most-Hid;7,4;1;781;524;982;1620
+SVK;Slovakia;parliament;2012-03-10;5,88;11;150;SaS;Sloboda a Solidarita;Freedom and Solidarity;6;1;781;524;982;1460
+SVK;Slovakia;parliament;2012-03-10;6,09;11;150;SDKU-DS;Slovenská demokratická a kresťanská únia – Demokratická strana;Slovak Democratic and Christian Union -- Democratic Party;7,3591;1;781;524;982;131
+SVK;Slovakia;parliament;2012-03-10;4,55;0;150;SNS;Slovenská národná strana;Slovak National Party;7,0198;1;781;524;982;1072
+SVK;Slovakia;parliament;2012-03-10;1,58;0;150;LsNS;Ľudová strana Naše Slovensko;People's Party our Slovakia;8,7;1;781;524;982;586
+SVK;Slovakia;parliament;2012-03-10;1,29;0;150;ZzDS;Zmena zdola, Demokratická únia Slovenska;Change from the Bottom, Democratic Union of Slovakia;6;1;781;524;982;2013
+SVK;Slovakia;parliament;2012-03-10;1,58;0;150;99%;99% – občiansky hlas;99 Percent -- Civic Voice;1,4;1;781;524;982;2015
+SVK;Slovakia;parliament;2012-03-10;4,28;0;150;MK;Maďarskej koalície – Magyar Koalíció;Hungarian Coalition;6,5005;1;781;524;982;559
+SVK;Slovakia;parliament;2012-03-10;1,22;0;150;ANO;Aliancia nového občana;Alliance for a New Citizen;7,2404;1;781;524;982;1200
+SVN;Slovenia;parliament;2011-12-04;28,51;28;90;LZJ-PS;Lista Zorana Jankovića – Pozitivna Slovenija;Zoran Jankovic's List -- Positive Slovenia;3,4;60;778;522;907;1987
+SVN;Slovenia;parliament;2011-12-04;26,19;26;90;SDS;Slovenska demokratska stranka;Slovenian Democratic Party;6,9996;60;778;522;907;179
+SVN;Slovenia;parliament;2011-12-04;10,52;10;90;ZL-SD;Združena lista – Socialni demokrati;United List -- Social Democrats;3,0637;60;778;522;907;706
+SVN;Slovenia;parliament;2011-12-04;8,37;8;90;DL;Državljanska lista;Citizens' List;6;60;778;522;907;1988
+SVN;Slovenia;parliament;2011-12-04;6,97;6;90;DeSUS;Demokratična stranka upokojencev Slovenije;Democratic Party of Retired People of Slovenia;3,2292;60;778;522;907;1587
+SVN;Slovenia;parliament;2011-12-04;6,83;6;90;SLS;Slovenska ljudska stranka;Slovenian People's Party;6,6953;60;778;522;907;16
+SVN;Slovenia;parliament;2011-12-04;4,88;4;90;NSI;Nova Slovenija – Krščanska ljudska stranka;New Slovenia -- Christian People's Party;7,9345;60;778;522;907;1047
+SVN;Slovenia;parliament;2011-12-04;;1;90;Ita;Italijanska narodna skupnost;Italian national community;;60;778;522;907;199
+SVN;Slovenia;parliament;2011-12-04;;1;90;MAD;Madžarska narodna skupnost;Hungarian national community;;60;778;522;907;65
+SVN;Slovenia;parliament;2011-12-04;1,8;0;90;SNS;Slovenska nacionalna stranka;Slovenian National Party;4,7941;60;778;522;907;981
+SVN;Slovenia;parliament;2011-12-04;1,48;0;90;LDS;Liberalna demokracija Slovenije;Liberal Democracy of Slovenia;3,7351;60;778;522;907;1252
+SVN;Slovenia;parliament;2011-12-04;1,22;0;90;TRS;Stranka za trajnostni razvoj Slovenije;Party for Sustainable Development of Slovenia;3,4;60;778;522;907;1989
+SWE;Sweden;parliament;2010-09-19;30,66;112;349;SAP;Socialdemokraterna;Social Democrats;3,4447;35;512;629;475;904
+SWE;Sweden;parliament;2010-09-19;30,06;107;349;M;Moderaterna;Moderate Party;7,8907;35;512;629;475;657
+SWE;Sweden;parliament;2010-09-19;7,34;25;349;MP;Miljöpartiet de Gröna;Greens;3,3789;35;512;629;475;1154
+SWE;Sweden;parliament;2010-09-19;7,06;24;349;FP;Folkpartiet;Liberals;6,2906;35;512;629;475;892
+SWE;Sweden;parliament;2010-09-19;6,56;23;349;C;Centerpartiet;Centre Party;5,8084;35;512;629;475;1461
+SWE;Sweden;parliament;2010-09-19;5,7;20;349;SD;Sverigedemokraterna;Sweden Democrats;8,7;35;512;629;475;1546
+SWE;Sweden;parliament;2010-09-19;5,6;19;349;V;Vänsterpartiet (kommunisterna);Left Party (Communists);1,5464;35;512;629;475;882
+SWE;Sweden;parliament;2010-09-19;5,6;19;349;KD;Kristdemokraterna;Christian Democrats;7,195;35;512;629;475;282
+SWE;Sweden;parliament;2010-09-19;0,65;0;349;Pi;Piratpartiet;Pirate Party;;35;512;629;475;721
